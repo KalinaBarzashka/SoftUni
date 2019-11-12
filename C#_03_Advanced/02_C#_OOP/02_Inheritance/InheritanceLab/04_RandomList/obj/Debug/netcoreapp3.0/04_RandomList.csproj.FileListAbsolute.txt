@@ -1,0 +1,11 @@
+C:\Users\Kalina Barzashka\source\repos\Inheritance\04_RandomList\bin\Debug\netcoreapp3.0\04_RandomList.exe
+C:\Users\Kalina Barzashka\source\repos\Inheritance\04_RandomList\bin\Debug\netcoreapp3.0\04_RandomList.deps.json
+C:\Users\Kalina Barzashka\source\repos\Inheritance\04_RandomList\bin\Debug\netcoreapp3.0\04_RandomList.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\Inheritance\04_RandomList\bin\Debug\netcoreapp3.0\04_RandomList.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\Inheritance\04_RandomList\bin\Debug\netcoreapp3.0\04_RandomList.dll
+C:\Users\Kalina Barzashka\source\repos\Inheritance\04_RandomList\bin\Debug\netcoreapp3.0\04_RandomList.pdb
+C:\Users\Kalina Barzashka\source\repos\Inheritance\04_RandomList\obj\Debug\netcoreapp3.0\04_RandomList.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\Inheritance\04_RandomList\obj\Debug\netcoreapp3.0\04_RandomList.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\Inheritance\04_RandomList\obj\Debug\netcoreapp3.0\04_RandomList.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\Inheritance\04_RandomList\obj\Debug\netcoreapp3.0\04_RandomList.dll
+C:\Users\Kalina Barzashka\source\repos\Inheritance\04_RandomList\obj\Debug\netcoreapp3.0\04_RandomList.pdb

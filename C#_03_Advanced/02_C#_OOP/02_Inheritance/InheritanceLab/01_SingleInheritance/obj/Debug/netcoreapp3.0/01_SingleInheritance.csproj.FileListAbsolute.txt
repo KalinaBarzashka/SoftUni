@@ -1,0 +1,10 @@
+C:\Users\Kalina Barzashka\source\repos\Inheritance\01_SingleInheritance\bin\Debug\netcoreapp3.0\01_SingleInheritance.exe
+C:\Users\Kalina Barzashka\source\repos\Inheritance\01_SingleInheritance\bin\Debug\netcoreapp3.0\01_SingleInheritance.deps.json
+C:\Users\Kalina Barzashka\source\repos\Inheritance\01_SingleInheritance\bin\Debug\netcoreapp3.0\01_SingleInheritance.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\Inheritance\01_SingleInheritance\bin\Debug\netcoreapp3.0\01_SingleInheritance.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\Inheritance\01_SingleInheritance\bin\Debug\netcoreapp3.0\01_SingleInheritance.dll
+C:\Users\Kalina Barzashka\source\repos\Inheritance\01_SingleInheritance\bin\Debug\netcoreapp3.0\01_SingleInheritance.pdb
+C:\Users\Kalina Barzashka\source\repos\Inheritance\01_SingleInheritance\obj\Debug\netcoreapp3.0\01_SingleInheritance.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\Inheritance\01_SingleInheritance\obj\Debug\netcoreapp3.0\01_SingleInheritance.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\Inheritance\01_SingleInheritance\obj\Debug\netcoreapp3.0\01_SingleInheritance.dll
+C:\Users\Kalina Barzashka\source\repos\Inheritance\01_SingleInheritance\obj\Debug\netcoreapp3.0\01_SingleInheritance.pdb

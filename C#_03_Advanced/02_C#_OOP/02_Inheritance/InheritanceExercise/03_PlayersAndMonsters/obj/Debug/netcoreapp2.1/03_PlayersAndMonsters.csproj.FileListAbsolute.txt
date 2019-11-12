@@ -1,0 +1,10 @@
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\03_PlayersAndMonsters\bin\Debug\netcoreapp2.1\03_PlayersAndMonsters.deps.json
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\03_PlayersAndMonsters\bin\Debug\netcoreapp2.1\03_PlayersAndMonsters.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\03_PlayersAndMonsters\bin\Debug\netcoreapp2.1\03_PlayersAndMonsters.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\03_PlayersAndMonsters\bin\Debug\netcoreapp2.1\03_PlayersAndMonsters.dll
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\03_PlayersAndMonsters\bin\Debug\netcoreapp2.1\03_PlayersAndMonsters.pdb
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\03_PlayersAndMonsters\obj\Debug\netcoreapp2.1\03_PlayersAndMonsters.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\03_PlayersAndMonsters\obj\Debug\netcoreapp2.1\03_PlayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\03_PlayersAndMonsters\obj\Debug\netcoreapp2.1\03_PlayersAndMonsters.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\03_PlayersAndMonsters\obj\Debug\netcoreapp2.1\03_PlayersAndMonsters.dll
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\03_PlayersAndMonsters\obj\Debug\netcoreapp2.1\03_PlayersAndMonsters.pdb

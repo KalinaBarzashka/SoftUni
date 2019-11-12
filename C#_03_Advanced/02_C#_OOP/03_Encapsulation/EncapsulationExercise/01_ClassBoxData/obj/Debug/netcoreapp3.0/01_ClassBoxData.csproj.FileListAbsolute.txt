@@ -1,0 +1,10 @@
+C:\Users\Kalina Barzashka\source\repos\EncapsulationExercise\01_ClassBoxData\bin\Debug\netcoreapp3.0\01_ClassBoxData.exe
+C:\Users\Kalina Barzashka\source\repos\EncapsulationExercise\01_ClassBoxData\bin\Debug\netcoreapp3.0\01_ClassBoxData.deps.json
+C:\Users\Kalina Barzashka\source\repos\EncapsulationExercise\01_ClassBoxData\bin\Debug\netcoreapp3.0\01_ClassBoxData.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\EncapsulationExercise\01_ClassBoxData\bin\Debug\netcoreapp3.0\01_ClassBoxData.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\EncapsulationExercise\01_ClassBoxData\bin\Debug\netcoreapp3.0\01_ClassBoxData.dll
+C:\Users\Kalina Barzashka\source\repos\EncapsulationExercise\01_ClassBoxData\bin\Debug\netcoreapp3.0\01_ClassBoxData.pdb
+C:\Users\Kalina Barzashka\source\repos\EncapsulationExercise\01_ClassBoxData\obj\Debug\netcoreapp3.0\01_ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\EncapsulationExercise\01_ClassBoxData\obj\Debug\netcoreapp3.0\01_ClassBoxData.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\EncapsulationExercise\01_ClassBoxData\obj\Debug\netcoreapp3.0\01_ClassBoxData.dll
+C:\Users\Kalina Barzashka\source\repos\EncapsulationExercise\01_ClassBoxData\obj\Debug\netcoreapp3.0\01_ClassBoxData.pdb

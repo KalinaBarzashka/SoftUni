@@ -1,0 +1,9 @@
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\05_Restaurant\bin\Debug\netcoreapp2.1\05_Restaurant.deps.json
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\05_Restaurant\bin\Debug\netcoreapp2.1\05_Restaurant.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\05_Restaurant\bin\Debug\netcoreapp2.1\05_Restaurant.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\05_Restaurant\bin\Debug\netcoreapp2.1\05_Restaurant.dll
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\05_Restaurant\bin\Debug\netcoreapp2.1\05_Restaurant.pdb
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\05_Restaurant\obj\Debug\netcoreapp2.1\05_Restaurant.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\05_Restaurant\obj\Debug\netcoreapp2.1\05_Restaurant.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\05_Restaurant\obj\Debug\netcoreapp2.1\05_Restaurant.dll
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\05_Restaurant\obj\Debug\netcoreapp2.1\05_Restaurant.pdb

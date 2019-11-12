@@ -1,0 +1,11 @@
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\01_Person\obj\Debug\netcoreapp3.0\01_Person.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\01_Person\obj\Debug\netcoreapp3.0\01_Person.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\01_Person\obj\Debug\netcoreapp3.0\01_Person.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\01_Person\bin\Debug\netcoreapp3.0\01_Person.exe
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\01_Person\bin\Debug\netcoreapp3.0\01_Person.deps.json
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\01_Person\bin\Debug\netcoreapp3.0\01_Person.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\01_Person\bin\Debug\netcoreapp3.0\01_Person.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\01_Person\bin\Debug\netcoreapp3.0\01_Person.dll
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\01_Person\bin\Debug\netcoreapp3.0\01_Person.pdb
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\01_Person\obj\Debug\netcoreapp3.0\01_Person.dll
+C:\Users\Kalina Barzashka\source\repos\InheritanceExercise\01_Person\obj\Debug\netcoreapp3.0\01_Person.pdb

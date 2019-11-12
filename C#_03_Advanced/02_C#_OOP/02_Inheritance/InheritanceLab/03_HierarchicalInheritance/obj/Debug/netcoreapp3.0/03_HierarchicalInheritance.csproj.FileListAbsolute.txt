@@ -1,0 +1,11 @@
+C:\Users\Kalina Barzashka\source\repos\Inheritance\03_HierarchicalInheritance\bin\Debug\netcoreapp3.0\03_HierarchicalInheritance.exe
+C:\Users\Kalina Barzashka\source\repos\Inheritance\03_HierarchicalInheritance\bin\Debug\netcoreapp3.0\03_HierarchicalInheritance.deps.json
+C:\Users\Kalina Barzashka\source\repos\Inheritance\03_HierarchicalInheritance\bin\Debug\netcoreapp3.0\03_HierarchicalInheritance.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\Inheritance\03_HierarchicalInheritance\bin\Debug\netcoreapp3.0\03_HierarchicalInheritance.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\Inheritance\03_HierarchicalInheritance\bin\Debug\netcoreapp3.0\03_HierarchicalInheritance.dll
+C:\Users\Kalina Barzashka\source\repos\Inheritance\03_HierarchicalInheritance\bin\Debug\netcoreapp3.0\03_HierarchicalInheritance.pdb
+C:\Users\Kalina Barzashka\source\repos\Inheritance\03_HierarchicalInheritance\obj\Debug\netcoreapp3.0\03_HierarchicalInheritance.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\Inheritance\03_HierarchicalInheritance\obj\Debug\netcoreapp3.0\03_HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\Inheritance\03_HierarchicalInheritance\obj\Debug\netcoreapp3.0\03_HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\Inheritance\03_HierarchicalInheritance\obj\Debug\netcoreapp3.0\03_HierarchicalInheritance.dll
+C:\Users\Kalina Barzashka\source\repos\Inheritance\03_HierarchicalInheritance\obj\Debug\netcoreapp3.0\03_HierarchicalInheritance.pdb

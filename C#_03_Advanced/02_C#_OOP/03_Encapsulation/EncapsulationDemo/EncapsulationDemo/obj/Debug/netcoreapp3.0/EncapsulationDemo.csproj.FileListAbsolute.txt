@@ -1,0 +1,11 @@
+C:\Users\Kalina Barzashka\source\repos\EncapsulationDemo\EncapsulationDemo\bin\Debug\netcoreapp3.0\EncapsulationDemo.exe
+C:\Users\Kalina Barzashka\source\repos\EncapsulationDemo\EncapsulationDemo\bin\Debug\netcoreapp3.0\EncapsulationDemo.deps.json
+C:\Users\Kalina Barzashka\source\repos\EncapsulationDemo\EncapsulationDemo\bin\Debug\netcoreapp3.0\EncapsulationDemo.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\EncapsulationDemo\EncapsulationDemo\bin\Debug\netcoreapp3.0\EncapsulationDemo.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\EncapsulationDemo\EncapsulationDemo\bin\Debug\netcoreapp3.0\EncapsulationDemo.dll
+C:\Users\Kalina Barzashka\source\repos\EncapsulationDemo\EncapsulationDemo\bin\Debug\netcoreapp3.0\EncapsulationDemo.pdb
+C:\Users\Kalina Barzashka\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\netcoreapp3.0\EncapsulationDemo.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\netcoreapp3.0\EncapsulationDemo.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\netcoreapp3.0\EncapsulationDemo.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\netcoreapp3.0\EncapsulationDemo.dll
+C:\Users\Kalina Barzashka\source\repos\EncapsulationDemo\EncapsulationDemo\obj\Debug\netcoreapp3.0\EncapsulationDemo.pdb

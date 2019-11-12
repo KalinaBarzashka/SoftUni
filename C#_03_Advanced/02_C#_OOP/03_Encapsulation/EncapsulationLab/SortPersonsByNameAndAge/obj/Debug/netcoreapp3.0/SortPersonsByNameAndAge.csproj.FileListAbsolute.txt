@@ -1,0 +1,11 @@
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.0\SortPersonsByNameAndAge.exe
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.0\SortPersonsByNameAndAge.deps.json
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.0\SortPersonsByNameAndAge.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.0\SortPersonsByNameAndAge.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.0\SortPersonsByNameAndAge.dll
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SortPersonsByNameAndAge\bin\Debug\netcoreapp3.0\SortPersonsByNameAndAge.pdb
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.0\SortPersonsByNameAndAge.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.0\SortPersonsByNameAndAge.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.0\SortPersonsByNameAndAge.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.0\SortPersonsByNameAndAge.dll
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SortPersonsByNameAndAge\obj\Debug\netcoreapp3.0\SortPersonsByNameAndAge.pdb

@@ -1,0 +1,11 @@
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\Demo\bin\Debug\netcoreapp3.0\Demo.exe
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\Demo\bin\Debug\netcoreapp3.0\Demo.deps.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\Demo\bin\Debug\netcoreapp3.0\Demo.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\Demo\bin\Debug\netcoreapp3.0\Demo.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\Demo\bin\Debug\netcoreapp3.0\Demo.dll
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\Demo\bin\Debug\netcoreapp3.0\Demo.pdb
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\Demo\obj\Debug\netcoreapp3.0\Demo.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\Demo\obj\Debug\netcoreapp3.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\Demo\obj\Debug\netcoreapp3.0\Demo.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\Demo\obj\Debug\netcoreapp3.0\Demo.dll
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\Demo\obj\Debug\netcoreapp3.0\Demo.pdb

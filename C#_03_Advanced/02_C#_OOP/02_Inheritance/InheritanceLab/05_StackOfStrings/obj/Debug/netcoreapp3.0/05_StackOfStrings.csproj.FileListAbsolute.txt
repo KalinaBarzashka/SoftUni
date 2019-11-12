@@ -1,0 +1,10 @@
+C:\Users\Kalina Barzashka\source\repos\Inheritance\05_StackOfStrings\bin\Debug\netcoreapp3.0\05_StackOfStrings.exe
+C:\Users\Kalina Barzashka\source\repos\Inheritance\05_StackOfStrings\bin\Debug\netcoreapp3.0\05_StackOfStrings.deps.json
+C:\Users\Kalina Barzashka\source\repos\Inheritance\05_StackOfStrings\bin\Debug\netcoreapp3.0\05_StackOfStrings.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\Inheritance\05_StackOfStrings\bin\Debug\netcoreapp3.0\05_StackOfStrings.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\Inheritance\05_StackOfStrings\bin\Debug\netcoreapp3.0\05_StackOfStrings.dll
+C:\Users\Kalina Barzashka\source\repos\Inheritance\05_StackOfStrings\bin\Debug\netcoreapp3.0\05_StackOfStrings.pdb
+C:\Users\Kalina Barzashka\source\repos\Inheritance\05_StackOfStrings\obj\Debug\netcoreapp3.0\05_StackOfStrings.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\Inheritance\05_StackOfStrings\obj\Debug\netcoreapp3.0\05_StackOfStrings.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\Inheritance\05_StackOfStrings\obj\Debug\netcoreapp3.0\05_StackOfStrings.dll
+C:\Users\Kalina Barzashka\source\repos\Inheritance\05_StackOfStrings\obj\Debug\netcoreapp3.0\05_StackOfStrings.pdb

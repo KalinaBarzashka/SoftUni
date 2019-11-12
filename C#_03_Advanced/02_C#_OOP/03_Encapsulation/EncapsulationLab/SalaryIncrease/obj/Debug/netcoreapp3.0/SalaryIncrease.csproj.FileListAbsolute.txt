@@ -1,0 +1,11 @@
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SalaryIncrease\bin\Debug\netcoreapp3.0\SalaryIncrease.exe
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SalaryIncrease\bin\Debug\netcoreapp3.0\SalaryIncrease.deps.json
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SalaryIncrease\bin\Debug\netcoreapp3.0\SalaryIncrease.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SalaryIncrease\bin\Debug\netcoreapp3.0\SalaryIncrease.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SalaryIncrease\bin\Debug\netcoreapp3.0\SalaryIncrease.dll
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SalaryIncrease\bin\Debug\netcoreapp3.0\SalaryIncrease.pdb
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SalaryIncrease\obj\Debug\netcoreapp3.0\SalaryIncrease.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SalaryIncrease\obj\Debug\netcoreapp3.0\SalaryIncrease.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SalaryIncrease\obj\Debug\netcoreapp3.0\SalaryIncrease.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SalaryIncrease\obj\Debug\netcoreapp3.0\SalaryIncrease.dll
+C:\Users\Kalina Barzashka\source\repos\EncapsulationLab\SalaryIncrease\obj\Debug\netcoreapp3.0\SalaryIncrease.pdb

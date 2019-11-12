@@ -1,0 +1,10 @@
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\01_Shapes\bin\Debug\netcoreapp2.1\01_Shapes.deps.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\01_Shapes\bin\Debug\netcoreapp2.1\01_Shapes.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\01_Shapes\bin\Debug\netcoreapp2.1\01_Shapes.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\01_Shapes\bin\Debug\netcoreapp2.1\01_Shapes.dll
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\01_Shapes\bin\Debug\netcoreapp2.1\01_Shapes.pdb
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\01_Shapes\obj\Debug\netcoreapp2.1\01_Shapes.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\01_Shapes\obj\Debug\netcoreapp2.1\01_Shapes.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\01_Shapes\obj\Debug\netcoreapp2.1\01_Shapes.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\01_Shapes\obj\Debug\netcoreapp2.1\01_Shapes.dll
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstractionLab\01_Shapes\obj\Debug\netcoreapp2.1\01_Shapes.pdb
