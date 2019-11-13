@@ -1,0 +1,11 @@
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\01_IPerson\bin\Debug\netcoreapp3.0\01_IPerson.exe
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\01_IPerson\bin\Debug\netcoreapp3.0\01_IPerson.deps.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\01_IPerson\bin\Debug\netcoreapp3.0\01_IPerson.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\01_IPerson\bin\Debug\netcoreapp3.0\01_IPerson.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\01_IPerson\bin\Debug\netcoreapp3.0\01_IPerson.dll
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\01_IPerson\bin\Debug\netcoreapp3.0\01_IPerson.pdb
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\01_IPerson\obj\Debug\netcoreapp3.0\01_IPerson.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\01_IPerson\obj\Debug\netcoreapp3.0\01_IPerson.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\01_IPerson\obj\Debug\netcoreapp3.0\01_IPerson.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\01_IPerson\obj\Debug\netcoreapp3.0\01_IPerson.dll
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\01_IPerson\obj\Debug\netcoreapp3.0\01_IPerson.pdb

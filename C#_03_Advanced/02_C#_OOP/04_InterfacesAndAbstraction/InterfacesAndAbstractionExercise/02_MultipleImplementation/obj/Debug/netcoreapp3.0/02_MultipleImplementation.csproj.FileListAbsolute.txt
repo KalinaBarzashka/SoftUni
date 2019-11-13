@@ -1,0 +1,11 @@
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\02_MultipleImplementation\bin\Debug\netcoreapp3.0\02_MultipleImplementation.exe
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\02_MultipleImplementation\bin\Debug\netcoreapp3.0\02_MultipleImplementation.deps.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\02_MultipleImplementation\bin\Debug\netcoreapp3.0\02_MultipleImplementation.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\02_MultipleImplementation\bin\Debug\netcoreapp3.0\02_MultipleImplementation.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\02_MultipleImplementation\bin\Debug\netcoreapp3.0\02_MultipleImplementation.dll
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\02_MultipleImplementation\bin\Debug\netcoreapp3.0\02_MultipleImplementation.pdb
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\02_MultipleImplementation\obj\Debug\netcoreapp3.0\02_MultipleImplementation.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\02_MultipleImplementation\obj\Debug\netcoreapp3.0\02_MultipleImplementation.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\02_MultipleImplementation\obj\Debug\netcoreapp3.0\02_MultipleImplementation.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\02_MultipleImplementation\obj\Debug\netcoreapp3.0\02_MultipleImplementation.dll
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\02_MultipleImplementation\obj\Debug\netcoreapp3.0\02_MultipleImplementation.pdb

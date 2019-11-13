@@ -1,0 +1,11 @@
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\03_Ferrari\bin\Debug\netcoreapp3.0\03_Ferrari.exe
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\03_Ferrari\bin\Debug\netcoreapp3.0\03_Ferrari.deps.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\03_Ferrari\bin\Debug\netcoreapp3.0\03_Ferrari.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\03_Ferrari\bin\Debug\netcoreapp3.0\03_Ferrari.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\03_Ferrari\bin\Debug\netcoreapp3.0\03_Ferrari.dll
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\03_Ferrari\bin\Debug\netcoreapp3.0\03_Ferrari.pdb
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\03_Ferrari\obj\Debug\netcoreapp3.0\03_Ferrari.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\03_Ferrari\obj\Debug\netcoreapp3.0\03_Ferrari.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\03_Ferrari\obj\Debug\netcoreapp3.0\03_Ferrari.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\03_Ferrari\obj\Debug\netcoreapp3.0\03_Ferrari.dll
+C:\Users\Kalina Barzashka\source\repos\InterfacesAndAbstraction\03_Ferrari\obj\Debug\netcoreapp3.0\03_Ferrari.pdb
