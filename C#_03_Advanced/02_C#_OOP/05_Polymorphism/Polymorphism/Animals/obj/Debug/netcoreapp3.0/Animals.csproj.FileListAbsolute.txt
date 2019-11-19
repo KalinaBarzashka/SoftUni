@@ -1,0 +1,11 @@
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.0\Animals.exe
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.0\Animals.deps.json
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.0\Animals.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.0\Animals.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.0\Animals.dll
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\Animals\bin\Debug\netcoreapp3.0\Animals.pdb
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.0\Animals.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.0\Animals.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.0\Animals.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.0\Animals.dll
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\Animals\obj\Debug\netcoreapp3.0\Animals.pdb

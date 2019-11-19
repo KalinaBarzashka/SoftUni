@@ -1,0 +1,11 @@
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\MathOperation\bin\Debug\netcoreapp3.0\MathOperation.exe
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\MathOperation\bin\Debug\netcoreapp3.0\MathOperation.deps.json
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\MathOperation\bin\Debug\netcoreapp3.0\MathOperation.runtimeconfig.json
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\MathOperation\bin\Debug\netcoreapp3.0\MathOperation.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\MathOperation\bin\Debug\netcoreapp3.0\MathOperation.dll
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\MathOperation\bin\Debug\netcoreapp3.0\MathOperation.pdb
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\MathOperation\obj\Debug\netcoreapp3.0\MathOperation.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\MathOperation\obj\Debug\netcoreapp3.0\MathOperation.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\MathOperation\obj\Debug\netcoreapp3.0\MathOperation.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\MathOperation\obj\Debug\netcoreapp3.0\MathOperation.dll
+C:\Users\Kalina Barzashka\source\repos\Polymorphism\MathOperation\obj\Debug\netcoreapp3.0\MathOperation.pdb
