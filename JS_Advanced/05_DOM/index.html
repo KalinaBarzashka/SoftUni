@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+<body>
+  <div class="content">
+    <p class="toRemove">This came from the HTML file.</p>
+    <a href="#" class="toRemove">Link</a>
+  </div>
+  <input type="text" />
+  <script>
+    let myDiv = document.getElementsByTagName('div')[0];
+    //myDiv.innerHTML = '<h1>Pesho</h1>';
+    let p1 = document.createElement('p');
+    p1.textContent = 'Lorem ipsum';
+    myDiv.appendChild(p1);
+
+    let p2 = document.createElement('p');
+    p2.textContent = 'TOP';
+    myDiv.prepend(p2);
+
+    //let toRemove = document.getElementById('toRemove');
+    //toRemove.remove(); //трие елемента директно от DOM дървото
+
+    let toRemove = document.getElementsByClassName('toRemove');
+    Array.from(toRemove).forEach(element => {
+      element.remove();
+    });
+
+    let input = document.getElementsByTagName('input')[0];
+    input.setAttribute('placeholder', 'username');
+    //за да превърнем полето да може да приема само числа:
+    //input.setAttribute('type', 'number');
+  </script>
+  </script>
+</body>
+</html>
