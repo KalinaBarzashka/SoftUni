@@ -1,0 +1,26 @@
+using System;
+
+class MainClass
+{
+  public static void Main (string[] args)
+  {
+    int lines = int.Parse(Console.ReadLine());
+    string bestModel = "";
+    double bestVolume = 0;
+
+    for(int i = 0; i < lines; i++)
+    {
+      string model = Console.ReadLine();
+      double radius = double.Parse(Console.ReadLine());
+      int height = int.Parse(Console.ReadLine());
+      double volume = Math.PI * Math.Pow(radius, 2) * height;
+
+      if (bestVolume < volume)
+      {
+        bestModel = model;
+        bestVolume = volume;
+      }
+    }
+    Console.WriteLine(bestModel);
+  }
+}

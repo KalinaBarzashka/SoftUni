@@ -1,0 +1,45 @@
+using System;
+using System.Linq;
+
+namespace ConsoleApplication6
+{
+    public class Program
+    {
+        public static void Main()
+        {
+            bool equal = false;
+			int index = 0;
+			int sum = 0;
+			
+            int[] matrix1 = Console.ReadLine().Split().Select(int.Parse).ToArray();
+            int[] matrix2 = Console.ReadLine().Split().Select(int.Parse).ToArray();
+
+
+            if (matrix1.Length == matrix2.Length)
+            {
+                for (int i = 0; i < matrix1.Length; i++)
+                {
+                    if (matrix1[i] == matrix2[i])
+                    {
+                        equal = true;
+						sum += matrix1[i];
+                    }
+                    else
+                    {
+                        equal = false;
+						index = i;
+                        break;
+                    }
+                }
+            }
+			if(equal == false)
+			{
+				Console.WriteLine("Arrays are not identical. Found difference at {0} index",index);
+			} else
+			{
+				Console.WriteLine("Arrays are identical. Sum: {0}", sum);
+			}
+
+        }
+    }
+}

@@ -1,0 +1,111 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Numerics;
+
+namespace ConsoleApplication6
+{
+    public class Program
+    {
+        public static void Main()
+        {
+			double num = double.Parse(Console.ReadLine());
+			double startMoney = num;
+			double spentMoney = 0.0;
+			
+			while(true)
+			{
+				string game = Console.ReadLine();
+				if(game == "Game Time") 
+				{
+					if(num == 0)
+					{
+						Console.WriteLine("Out of money!");
+					}
+					else
+					{
+						Console.WriteLine("Total spent: ${0:F2}. Remaining: ${1:F2}", spentMoney, startMoney - spentMoney);
+					}
+					break;
+				}
+				
+				if(num == 0)
+				{
+					Console.WriteLine("Out of money!");
+				}
+				
+				if(IsGameExisting(game) == true)
+				{
+					double price = PriceForAGame(game);
+					if(num >= price)
+					{
+						Console.WriteLine("Bought {0}", game);
+						spentMoney += price;
+						num -= price;
+						continue;
+					}
+					else if(num < price)
+					{
+						Console.WriteLine("Too Expensive");
+						continue;
+					}
+				}
+				else
+				{
+					Console.WriteLine("Not Found");
+					continue;
+				}
+			}
+		}
+		
+		public static bool IsGameExisting(string game)
+		{
+			switch (game)
+			{
+				case "OutFall 4":
+					return true;
+				case "CS: OG":
+					return true;
+				case "Zplinter Zell":
+					return true;
+				case "Honored 2":
+					return true;
+				case "RoverWatch":
+					return true;
+				case "RoverWatch Origins Edition":
+					return true;
+				default:
+					return false;
+			}
+		}
+		
+		public static double PriceForAGame(string game)
+		{
+			if(game == "OutFall 4")
+			{
+				return 39.99;
+			} 
+			else if(game == "CS: OG")
+			{
+				return 15.99;
+			} 
+			else if(game == "Zplinter Zell")
+			{
+				return 19.99;
+			}
+			else if(game == "Honored 2")
+			{
+				return 59.99;
+			}
+			else if(game == "RoverWatch")
+			{
+				return 29.99;
+			}
+			else
+			{
+				return 39.99;
+			}
+		}
+	}
+}

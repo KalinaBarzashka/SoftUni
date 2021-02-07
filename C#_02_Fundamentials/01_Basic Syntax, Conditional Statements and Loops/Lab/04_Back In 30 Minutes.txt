@@ -1,0 +1,37 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Student_Information
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int hours = int.Parse(Console.ReadLine());
+            int minutes = int.Parse(Console.ReadLine());
+
+            int sumMinutes = hours * 60 + minutes + 30;
+
+            double newHour = sumMinutes / 60;
+            double newMinutes = sumMinutes % 60;
+            if(newHour >= 24)
+            {
+                newHour = newHour - 24;
+            }
+
+            if(newMinutes <= 9)
+            {
+                Console.WriteLine("{0}:0{1}", newHour, newMinutes);
+            }
+            else
+            {
+                Console.WriteLine("{0}:{1}", newHour, newMinutes);
+            }
+            
+        }
+    }
+}
+

@@ -1,0 +1,35 @@
+using System;
+using System.Linq;
+
+namespace ConsoleApplication6
+{
+    public class Program
+    {
+        public static void Main()
+        {
+            int[] numbers = Console.ReadLine()
+				.Split()
+				.Select(int.Parse)
+				.ToArray();
+			int sumLeft = 0;
+			int sumRight = 0;
+			
+			for(int i = 0; i <numbers.Length; i++)
+			{
+				sumRight += numbers[i];
+			}
+			for(int y = 0; y < numbers.Length; y++)
+			{
+				sumRight -= numbers[y];
+				
+				if(sumRight == sumLeft)
+				{
+					Console.WriteLine(y);
+					return;
+				}
+					sumLeft += numbers[y];
+			}
+			Console.WriteLine("no");
+        }
+    }
+}

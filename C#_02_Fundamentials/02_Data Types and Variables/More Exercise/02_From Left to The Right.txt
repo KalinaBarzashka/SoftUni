@@ -1,0 +1,42 @@
+using System;
+using System.Linq;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int n = int.Parse(Console.ReadLine());
+
+		for (int i = 0; i < n; i++) 
+		{
+	 		string[] arr = Console.ReadLine().Split(' ').ToArray();
+	
+	  		if (double.Parse(arr[0]) > double.Parse(arr[1])) 
+	  		{
+				double sum = 0;
+				arr[0] = Math.Abs(long.Parse(arr[0])).ToString();
+
+				for (int j = 0; j < arr[0].Length; j++) 
+				{
+					double digit = double.Parse(arr[0][j].ToString());
+		  			sum += digit;
+				}
+
+				Console.WriteLine(sum);
+	  		}
+			else 
+			{
+				double sum = 0;
+				arr[1] = Math.Abs(long.Parse(arr[1])).ToString();
+
+				for (int j = 0; j < arr[1].Length; j++) 
+				{
+					double digit = double.Parse(arr[1][j].ToString());
+		  			sum += digit;
+				}
+
+				Console.WriteLine(sum);
+			}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+npm init
+name of the package, and other stuff
+
+Bootstrap е библиотека, която предлага на готово css и JS функционалности, с които можем да си визуализираме
+някои неща по лесен начин.
+
+Sammy JS - библиотека, с която може да си менижираме route-овете на апликацията ни.
+
+load зарежда handlebars routes
+
+this.partial - зарежда се в контейнера
+
+В браузерите имаме:
+localeStorage - пази дори като си затвориш браузера
+sessionStorage - по време на сесията
+DB
+
+cookies!
+
+sessionStorage.clear();

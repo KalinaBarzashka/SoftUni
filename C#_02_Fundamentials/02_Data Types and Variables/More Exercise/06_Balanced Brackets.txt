@@ -1,0 +1,47 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int n = int.Parse(Console.ReadLine());
+		int counterBrackets = 0;
+		string firstBracket = "";
+		
+		for(int i = 0; i < n; i++)
+		{
+			string input = Console.ReadLine();
+			
+			if(input == "(")
+			{
+				if(firstBracket == "")
+				{
+					firstBracket = "(";
+				}
+				counterBrackets++;
+			}
+			else if(input == ")")
+			{
+				if(firstBracket == "")
+				{
+					firstBracket = ")";
+				}
+				counterBrackets--;
+			}
+			
+			if(counterBrackets > 1 || counterBrackets < 0)
+			{
+				break;
+			}
+		}
+      
+		if(counterBrackets == 0 && firstBracket != ")")
+		{
+			Console.WriteLine("BALANCED");
+		}
+		else
+		{
+			Console.WriteLine("UNBALANCED");
+		}
+	}
+}

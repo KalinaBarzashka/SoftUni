@@ -1,0 +1,89 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Numerics;
+
+namespace ConsoleApplication6
+{
+    public class Program
+    {
+        public static void Main()
+		{
+			double sum = 0.0;
+			double nutsPrice = 2.0;
+			double waterPrice = 0.7;
+			double crispsPrice = 1.5;
+			double sodaPrice = 0.8;
+			double cokePrice = 1.0;
+			while(true)
+			{
+				string command = Console.ReadLine();
+				if(command == "Start")
+				{break;}
+				
+				double money = double.Parse(command);
+				if(money == 0.1 || money == 0.2 || money == 0.5 || money == 1 || money == 2)
+				{
+					sum += money;
+				}
+				else Console.WriteLine("Cannot accept {0}", money);
+			}
+			
+			while(true)
+			{
+				string product = Console.ReadLine();
+				if(product == "End")
+				{break;}
+				
+				if(product == "Nuts")
+				{
+					if(sum >= nutsPrice)
+					{
+						sum -= nutsPrice;
+						Console.WriteLine("Purchased nuts");
+					}
+					else Console.WriteLine("Sorry, not enough money");
+				}
+				else if(product == "Water")
+				{
+					if(sum >= waterPrice)
+					{
+						sum -= waterPrice;
+						Console.WriteLine("Purchased water");
+					}
+					else Console.WriteLine("Sorry, not enough money");
+				}
+				else if(product == "Crisps")
+				{
+					if(sum >= crispsPrice)
+					{
+						sum -= crispsPrice;
+						Console.WriteLine("Purchased crisps");
+					}
+					else Console.WriteLine("Sorry, not enough money");
+				}
+				else if(product == "Soda")
+				{
+					if(sum >= sodaPrice)
+					{
+						sum -= sodaPrice;
+						Console.WriteLine("Purchased soda");
+					}
+					else Console.WriteLine("Sorry, not enough money");
+				}
+				else if(product == "Coke")
+				{
+					if(sum >= cokePrice)
+					{
+						sum -= cokePrice;
+						Console.WriteLine("Purchased coke");
+					}
+					else Console.WriteLine("Sorry, not enough money");
+				}
+				else Console.WriteLine("Invalid product");
+			}
+			Console.WriteLine("Change: {0:F2}", sum);
+		}
+	}
+}

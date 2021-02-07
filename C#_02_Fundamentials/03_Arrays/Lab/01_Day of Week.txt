@@ -1,0 +1,29 @@
+using System;
+					
+public class simpleNumber
+{
+	public static void Main()
+	{
+		string[] days = 
+		{
+			"Monday",
+			"Tuesday",
+			"Wednesday",
+			"Thursday",
+			"Friday",
+			"Saturday",
+			"Sunday"
+		};
+		
+		int output = int.Parse(Console.ReadLine());
+		
+		if(output > 0 && output <= 7)
+		{
+			Console.WriteLine(days[output - 1]);
+		}
+		else
+		{
+			Console.WriteLine("Invalid day!");
+		}
+	}
+}

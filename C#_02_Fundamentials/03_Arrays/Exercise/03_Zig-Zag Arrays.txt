@@ -1,0 +1,38 @@
+using System;
+using System.Linq;
+
+namespace ConsoleApplication4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int lines = int.Parse(Console.ReadLine());
+
+            int[] arr1 = new int[lines];
+            int[] arr2 = new int[lines];
+
+            for (int i = 0; i < lines; i++)
+            {
+                int[] numbers = Console.ReadLine()
+                    .Split()
+                    .Select(int.Parse)
+                    .ToArray();
+
+                if (i % 2 == 0)
+                {
+                    arr1[i] = numbers[0];
+                    arr2[i] = numbers[1];
+                }
+                else
+                {
+                    arr2[i] = numbers[0];
+                    arr1[i] = numbers[1];
+                }
+            }
+
+            Console.WriteLine(string.Join(" ", arr1));
+            Console.WriteLine(string.Join(" ", arr2));
+        }
+    }
+}

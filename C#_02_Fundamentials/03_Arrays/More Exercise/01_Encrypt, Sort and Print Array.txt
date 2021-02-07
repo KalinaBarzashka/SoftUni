@@ -1,0 +1,38 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int n = int.Parse(Console.ReadLine());
+		int[] asciNames = new int[n];
+		for(int i = 0; i < n; i++)
+		{
+			int asciiCode = 0;
+			string name = Console.ReadLine();
+			for(int y = 0; y < name.Length; y++)
+			{
+				int nameToAscii = (int)name[y];
+				bool isVowel = "aeiouAEIOU".IndexOf(name[y]) >= 0;
+				
+				if(isVowel)
+				{
+					nameToAscii *= name.Length;
+				}
+				else
+				{
+					nameToAscii /= name.Length;
+				}
+				
+				asciiCode += nameToAscii;
+				//Console.WriteLine(asciiCode);
+			}	
+			asciNames[i] = asciiCode;
+		}
+		Array.Sort(asciNames);
+		for(int i = 0; i < n; i++)
+		{
+			Console.WriteLine(asciNames[i]);
+		}
+	}
+}

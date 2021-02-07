@@ -1,0 +1,39 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Numerics;
+
+namespace ConsoleApplication6
+{
+    public class Program
+    {
+        public static void Main()
+		{
+			double availableMoney = double.Parse(Console.ReadLine());
+			int numOfStudents = int.Parse(Console.ReadLine());
+			double priceLightsabers = double.Parse(Console.ReadLine());
+			double priceRobes = double.Parse(Console.ReadLine());
+			double priceBelts = double.Parse(Console.ReadLine());
+			double sum = 0.0;
+			double moreEq = Math.Ceiling(0.1 * numOfStudents);
+			
+			sum += priceRobes * numOfStudents;
+			sum += priceLightsabers * (numOfStudents + moreEq);
+			sum += priceBelts * numOfStudents;
+			sum -= (numOfStudents / 6) * priceBelts;
+			
+			
+			if(sum <= availableMoney)
+			{
+				double finalSum = Math.Round(sum, 2);
+				Console.WriteLine("The money is enough - it would cost {0:F2}lv.", finalSum);
+			}
+			else 
+			{
+				double finalSum = Math.Round(sum - availableMoney, 2);
+				Console.WriteLine("Ivan Cho will need {0:F2}lv more.", finalSum);
+			}
+		}
+	}
+}

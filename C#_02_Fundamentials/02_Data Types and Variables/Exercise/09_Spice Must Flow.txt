@@ -1,0 +1,41 @@
+using System;
+
+public class Program
+{
+  public static void Main()
+  {
+    int startingYield = int.Parse(Console.ReadLine()); //spice mined on the first day
+    int workersConsume = 26;
+    int totalAmount = 0;
+    int workingDays = 0;
+
+    while(startingYield >= 100)
+    {
+      totalAmount += startingYield;
+      startingYield -= 10;
+
+      if(totalAmount >= 26)
+      {
+      totalAmount -= workersConsume;
+      }
+      else
+      {
+      totalAmount = 0;
+      }
+
+      workingDays++;
+    }
+
+    if(totalAmount >= 26)
+    {
+      totalAmount -= workersConsume;
+    }
+    else
+    {
+      totalAmount = 0;
+    }
+
+    Console.WriteLine(workingDays);
+    Console.WriteLine(totalAmount);
+  }
+}

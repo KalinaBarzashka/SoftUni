@@ -1,0 +1,19 @@
+using System;
+using System.Linq;
+					
+public class simpleNumber
+{
+	public static void Main()
+	{
+		double[] roundNumbers = Console.ReadLine()
+			.Split()
+			.Select(double.Parse)
+			.ToArray();
+		for(int i = 0; i < roundNumbers.Length; i++)
+		{
+			double originalNumber = roundNumbers[i];
+			int roundedN = (int)Math.Round(originalNumber, MidpointRounding.AwayFromZero);
+			Console.WriteLine("{0} => {1}", originalNumber, roundedN);
+		}
+	}
+}

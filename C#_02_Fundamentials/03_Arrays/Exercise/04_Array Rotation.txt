@@ -1,0 +1,30 @@
+using System;
+using System.Linq;
+
+namespace ConsoleApplication4
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int[] numbers = Console.ReadLine()
+                .Split()
+                .Select(int.Parse)
+                .ToArray();
+
+            int rotations = int.Parse(Console.ReadLine());
+
+            for (int i = 0; i < rotations; i++)
+            {
+                int firstNumber = numbers[0];
+                for (int i1 = 0; i1 < numbers.Length - 1; i1++)
+                {
+                    numbers[i1] = numbers[i1 + 1];
+
+                }
+                numbers[numbers.Length - 1] = firstNumber;
+            }
+            Console.WriteLine(string.Join(" ", numbers));
+        }
+    }
+}

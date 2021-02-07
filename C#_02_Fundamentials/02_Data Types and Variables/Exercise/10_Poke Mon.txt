@@ -1,0 +1,32 @@
+using System;
+
+class MainClass 
+{
+  public static void Main (string[] args)
+  {
+    int pokePower = int.Parse(Console.ReadLine()); //n
+    int distance = int.Parse(Console.ReadLine()); //between targets M
+    int exhaustionFactor = int.Parse(Console.ReadLine()); //Y
+    int counterPokedTargets = 0;
+    double percentValuePower = pokePower / 2.0;
+
+    while(pokePower >= distance)
+    {
+      if(pokePower == percentValuePower && exhaustionFactor != 0)
+      {
+        pokePower /= exhaustionFactor;
+
+        if(pokePower < distance)
+        {
+          break;
+        }
+      }
+
+      pokePower -= distance;
+      counterPokedTargets++;
+    }
+
+    Console.WriteLine(pokePower);
+    Console.WriteLine(counterPokedTargets);
+  }
+}

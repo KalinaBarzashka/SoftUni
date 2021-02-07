@@ -1,0 +1,26 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Numerics;
+
+namespace ConsoleApplication6
+{
+    public class Program
+    {
+        public static void Main()
+        {
+			string word = Console.ReadLine();
+			string reversedWord = Reverse(word);
+			
+			Console.WriteLine(reversedWord);
+		}
+		
+		public static string Reverse(string s)
+		{
+    		char[] charArray = s.ToCharArray();
+    		Array.Reverse(charArray);
+    		return new string(charArray);
+		}
+	}
+}

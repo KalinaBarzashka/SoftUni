@@ -1,0 +1,101 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Numerics;
+
+namespace ConsoleApplication6
+{
+    public class Program
+    {
+        public static void Main()
+        {
+			int numGroup = int.Parse(Console.ReadLine());
+			string typeOfGroup = Console.ReadLine();
+			string day = Console.ReadLine();
+			
+			double price = 0.0;
+			double totalPrice = 0.0;
+			
+			if(day == "Friday")
+			{
+				if(typeOfGroup == "Students")
+				{
+					price = 8.45;
+					if(numGroup >= 30)
+					{
+						price *= 0.85;
+					}
+				}
+				else if(typeOfGroup == "Business")
+				{
+					price = 10.90;
+				}
+				else if(typeOfGroup == "Regular")
+				{
+					price = 15;
+					if(numGroup >= 10 && numGroup <= 20)
+					{
+						price *= 0.95;
+					}
+				}
+			}
+			else if(day == "Saturday")
+			{
+				if(typeOfGroup == "Students")
+				{
+					price = 9.80;
+					if(numGroup >= 30)
+					{
+						price *= 0.85;
+					}
+				}
+				else if(typeOfGroup == "Business")
+				{
+					price = 15.60;
+				}
+				else if(typeOfGroup == "Regular")
+				{
+					price = 20;
+					if(numGroup >= 10 && numGroup <= 20)
+					{
+						price *= 0.95;
+					}
+				}
+			}
+			else if(day == "Sunday")
+			{
+				if(typeOfGroup == "Students")
+				{
+					price = 10.46;
+					if(numGroup >= 30)
+					{
+						price = price * 0.85;
+					}
+				}
+				else if(typeOfGroup == "Business")
+				{
+					price = 16;
+				}
+				else if(typeOfGroup == "Regular")
+				{
+					price = 22.50;
+					if(numGroup >= 10 && numGroup <= 20)
+					{
+						price *= 0.95;
+					}
+				}
+			}
+			if((typeOfGroup == "Business" && numGroup >= 100))
+			{
+				totalPrice = price * numGroup;
+				totalPrice -= 10 * price;
+			}
+			else
+			{
+			   	totalPrice = price * numGroup;
+			}
+			Console.WriteLine("Total price: {0:F2}", totalPrice);
+		}
+	}
+}

@@ -1,0 +1,25 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+using System.Globalization;
+using System.Numerics;
+
+namespace ConsoleApplication6
+{
+    public class Program
+    {
+        public static void Main()
+		{
+			int n = int.Parse(Console.ReadLine());
+			
+			for(int i = 1; i <= n; i++)
+			{
+				for(int i1 = 1; i1 <= i; i1++)
+				{
+					Console.Write(i + " ");
+				}
+				Console.WriteLine();
+			}
+		}
+	}
+}

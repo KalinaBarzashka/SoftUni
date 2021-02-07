@@ -1,0 +1,20 @@
+using System;
+
+class MainClass {
+  public static void Main (string[] args) 
+  {
+    
+  double length = 0.0;
+  double width = 0.0;
+  double volume = 0.0;
+  Console.Write("Length: ");
+  length = double.Parse(Console.ReadLine());
+  Console.Write("Width: ");
+  width = double.Parse(Console.ReadLine());
+  Console.Write("Height: ");
+  volume = double.Parse(Console.ReadLine());
+  volume = (length * width * volume) / 3.0;
+  Console.WriteLine($"Pyramid Volume: {volume:f2}");
+
+  }
+}

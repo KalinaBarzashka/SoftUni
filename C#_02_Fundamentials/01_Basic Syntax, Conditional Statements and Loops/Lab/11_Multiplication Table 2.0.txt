@@ -1,0 +1,31 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace SumOfOddNumbers
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int number = int.Parse(Console.ReadLine());
+            int counter = int.Parse(Console.ReadLine()); ;
+            int counterNew = 0;
+
+            if (counter > 10)
+            {
+                Console.WriteLine("{0} X {1} = {2}", number, counter, number * counter);
+            }
+
+
+            for (int i = counter; i <= 10; i++)
+            {
+                counterNew = counter++;
+                Console.WriteLine("{0} X {1} = {2}", number, counterNew, number * counterNew);
+                
+            }
+        }
+    }
+}

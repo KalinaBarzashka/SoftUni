@@ -1,0 +1,11 @@
+using System;
+using System.Globalization;
+
+class Program
+{
+    static void Main()
+    {
+      double n = double.Parse(Console.ReadLine());
+      Console.WriteLine("{0:F2}", n / 1000);
+    }
+}

@@ -1,0 +1,10 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+      double pounds = double.Parse(Console.ReadLine());
+      Console.WriteLine("{0:F3}", pounds * 1.31);
+    }
+}

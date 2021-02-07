@@ -1,0 +1,39 @@
+Definition and Uses - Templating Concepts - шаблон
+Показване на подобно съдържание по структура и вид, без да повтаряме кода.
+`` - native templating
+{{...}} - handlebars
+<%...%> - asp.net (classic)
+@.. - razor (темплейтинг енджин)
+
+Follow the principles of functional programming - templates are basically pure functions. (1 func - 1 task)
+Всички статични части на една уеб страница са темплейти. layout - общ изглед на нашата странца (менюта,
+секции, лог ин... - статиен е layout-a).
+
+Pure function - работи само с данните, които са и подадени; да не зависи от външни променливи/фактори,
+защото при подаване на едни и същи параметри, трябва да получим един и същи резултат
+
+single page application - предварително са попълнени, навигация, лого ...
+
+DRY principle
+
+Overview of Popular JS Libraries - Templating Engines:
+1) React
+2) Vue
+3) Angular
+4) Web Components
+5) Mustache
+6) Handlebars
+1, 2, 3 и 4 са фреймуърци, не са изцяло темплейт енджини, но имат вградени такива.
+
+Handlebars syntax and more:
+Uses double curly brace notation {{}}
+
+<script src="node_modulees_handlebars/dist/handlebars.js"></script>
+
+Partials:
+Partials are templates that can be inserted into other templates.
+Handlebars.registerPartial('contact, src); //instead of compile
+
+CDN - Content delivery network - online версия на handlebars
+
+diff between response.json/.blob/.text

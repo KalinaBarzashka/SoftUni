@@ -1,0 +1,20 @@
+using System;
+
+class MainClass
+{
+  public static void Main (string[] args)
+  {
+    int number = int.Parse(Console.ReadLine());
+    
+    for(int i = 0; i < number; i++)
+    {
+      for(int i1 = 0; i1 < number; i1++)
+      {
+        for(int i2 = 0; i2 < number; i2++)
+        {
+          Console.WriteLine($"{(char)(i + 97)}{(char)(i1 + 97)}{(char)(i2 + 97)}");
+        }
+      }
+    }
+  }
+}

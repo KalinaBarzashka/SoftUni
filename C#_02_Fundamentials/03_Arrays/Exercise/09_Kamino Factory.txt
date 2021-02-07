@@ -1,0 +1,83 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+
+class MainClass 
+{
+  public static void Main (string[] args) 
+  {
+    int lengthDNA = int.Parse(Console.ReadLine());
+    int[] bestDNA = null;
+    int bestLength = -1;
+    int startIndex = -1;
+    int bestSum = 0;
+    int bestSampleIndex = 0;
+    int currentSampleIndex = 0;
+
+    while(true)
+    {
+      string line = Console.ReadLine();
+      if(line == "Clone them!") { break; }
+      currentSampleIndex++;
+
+      int[] sequenceDNA = line.Split("!", StringSplitOptions.RemoveEmptyEntries).Select(int.Parse).ToArray();
+
+      int currentLength = 0;
+      int currentBestLength = 0;
+      int currentEndIndex = 0;
+
+      for(int i = 0; i < lengthDNA; i++)
+      {
+        if(sequenceDNA[i] == 1)
+        {
+          currentLength++;
+          if(currentBestLength < currentLength)
+          {
+            currentBestLength = currentLength;
+            currentEndIndex = i;
+          }
+        }
+        else
+        {
+          currentLength = 0;
+        }
+      }
+
+      int currentStartIndex = currentEndIndex - currentBestLength + 1;
+
+      int currentDnaSum = sequenceDNA.Sum();
+      bool isChanging = false;
+
+      if(currentBestLength > bestLength)
+      {
+        isChanging = true;
+      }
+      else if(currentBestLength == bestLength)
+      {
+        if(currentStartIndex < startIndex)
+        {
+          isChanging = true;
+        }
+        else if(currentStartIndex == startIndex)
+        {
+          if(currentDnaSum > bestSum)
+          {
+            isChanging = true;
+          }
+        }
+      }
+
+      if(isChanging == true)
+      {
+        bestLength = currentBestLength;
+        bestSum = currentDnaSum;
+        startIndex = currentStartIndex;
+        bestDNA = sequenceDNA;
+        bestSampleIndex = currentSampleIndex;
+      }
+    }
+
+    Console.WriteLine($"Best DNA sample {bestSampleIndex} with sum: {bestSum}.");
+    Console.WriteLine(String.Join(" ", bestDNA));
+  }
+}

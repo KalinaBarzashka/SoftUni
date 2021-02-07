@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body>
+  <input type="email" id="email" placeholder="email" />
+  <input type="password" id="password" placeholder="password" />
+  <button type="button" id="register">Register</button>
+  <button type="button" id="login">Log In</button>
+  <button type="button" id="getdata">Get Data</button>
+  <button type="button" id="logout">Log Out</button>
+  
+  <div style="background-color:lightblue" id="result"></div>
+
+  <!-- The core Firebase JS SDK is always required and must be listed first -->
+  <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-app.js"></script>
+
+  <!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+  <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-auth.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/7.12.0/firebase-firestore.js"></script>
+
+  <script>
+    // Your web app's Firebase configuration
+    var firebaseConfig = {
+      apiKey: "AIzaSyDs_3JVqzNUOojKSZuPNzlH3PgMAso4cgU",
+      authDomain: "testapp-a2707.firebaseapp.com",
+      databaseURL: "https://testapp-a2707.firebaseio.com",
+      projectId: "testapp-a2707",
+      storageBucket: "testapp-a2707.appspot.com",
+      messagingSenderId: "359454040056",
+      appId: "1:359454040056:web:3ae6de71aca68ae0e3400d"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+  </script>
+
+  <script defer src="functions.js"></script>
+</body>
+
+</html>

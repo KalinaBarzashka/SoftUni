@@ -1,0 +1,18 @@
+using System;
+
+  public class Program
+  {
+    public static void Main()
+    {
+      int persons = int.Parse(Console.ReadLine());
+      int capacity = int.Parse(Console.ReadLine());
+      int fullCourses = persons / capacity;
+
+      if(persons % capacity != 0)
+      {
+      fullCourses++;
+      }
+
+      Console.WriteLine(fullCourses);
+    }
+}
