@@ -1,0 +1,36 @@
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\04.WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\04.WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\04.WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\04.WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.Http.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\04.WORKSHOP\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.Http.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\04.WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\04.WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\04.WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\04.WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CoreCompileInputs.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\04.WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\04.WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\04.WORKSHOP\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.Http.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.Http.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CoreCompileInputs.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.deps.json
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.MvcFramework.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.Http.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.MvcFramework\bin\Debug\netstandard2.0\SIS.Http.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CoreCompileInputs.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.csproj.CopyComplete
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.MvcFramework\obj\Debug\netstandard2.0\SIS.MvcFramework.pdb

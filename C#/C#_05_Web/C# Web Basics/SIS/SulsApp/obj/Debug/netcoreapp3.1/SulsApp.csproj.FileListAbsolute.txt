@@ -1,0 +1,153 @@
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\SulsApp.exe
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\SulsApp.deps.json
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\SulsApp.runtimeconfig.json
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\SulsApp.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\SulsApp.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\SulsApp.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\SIS.Http.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\SIS.MvcFramework.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\SIS.Http.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\SIS.MvcFramework.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.csproj.CoreCompileInputs.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.csproj.CopyComplete
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.genruntimeconfig.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Home\Index.html
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Shared\_Layout.html
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\css\bootstrap.min.css
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\css\reset.css
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\css\site.css
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Users\Login.html
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\05. MVC INTRODUCTION\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Users\Register.html
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\SulsApp.exe
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Home\Index.html
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Shared\_Layout.html
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Users\Login.html
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Users\Register.html
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\css\bootstrap.min.css
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\css\reset.css
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\css\site.css
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\SulsApp.deps.json
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\SulsApp.runtimeconfig.json
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\SulsApp.runtimeconfig.dev.json
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\SulsApp.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\SulsApp.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Reflection.Metadata.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\SIS.Http.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\SIS.MvcFramework.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\SIS.Http.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\SIS.MvcFramework.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.csproj.CoreCompileInputs.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.csproj.CopyComplete
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.pdb
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\obj\Debug\netcoreapp3.1\SulsApp.genruntimeconfig.cache
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\favicon.ico
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\wwwroot\img\cat.jpg
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Shared\Error.html
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Problems\Create.html
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Problems\Details.html
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Home\IndexLoggedIn.html
+C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SulsApp\bin\Debug\netcoreapp3.1\Views\Submissions\Create.html
