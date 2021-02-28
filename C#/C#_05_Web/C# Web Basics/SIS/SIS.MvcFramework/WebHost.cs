@@ -50,7 +50,7 @@ namespace SIS.MvcFramework
                     && !x.IsConstructor 
                     && x.IsPublic
                     && x.DeclaringType == controller);
-                Console.WriteLine("Methods:");
+                
                 foreach (var action in actions)
                 {
                     string url = "/" + controller.Name.Replace("Controller", string.Empty) + "/" + action.Name;

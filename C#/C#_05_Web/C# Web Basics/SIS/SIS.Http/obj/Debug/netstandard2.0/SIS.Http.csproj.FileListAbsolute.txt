@@ -24,3 +24,12 @@ C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\S
 C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.csproj.CoreCompileInputs.cache
 C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.dll
 C:\Users\Kalina Barzashka\Desktop\C# Web Basics\06. MVC ADVANCED - VIEW ENGINE\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.pdb
+C:\Users\Kalina Barzashka\Desktop\SoftUni\C#\C#_05_Web\C# Web Basics\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.deps.json
+C:\Users\Kalina Barzashka\Desktop\SoftUni\C#\C#_05_Web\C# Web Basics\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.dll
+C:\Users\Kalina Barzashka\Desktop\SoftUni\C#\C#_05_Web\C# Web Basics\SIS\SIS.Http\bin\Debug\netstandard2.0\SIS.Http.pdb
+C:\Users\Kalina Barzashka\Desktop\SoftUni\C#\C#_05_Web\C# Web Basics\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.csprojAssemblyReference.cache
+C:\Users\Kalina Barzashka\Desktop\SoftUni\C#\C#_05_Web\C# Web Basics\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.AssemblyInfoInputs.cache
+C:\Users\Kalina Barzashka\Desktop\SoftUni\C#\C#_05_Web\C# Web Basics\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.AssemblyInfo.cs
+C:\Users\Kalina Barzashka\Desktop\SoftUni\C#\C#_05_Web\C# Web Basics\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.csproj.CoreCompileInputs.cache
+C:\Users\Kalina Barzashka\Desktop\SoftUni\C#\C#_05_Web\C# Web Basics\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.dll
+C:\Users\Kalina Barzashka\Desktop\SoftUni\C#\C#_05_Web\C# Web Basics\SIS\SIS.Http\obj\Debug\netstandard2.0\SIS.Http.pdb
